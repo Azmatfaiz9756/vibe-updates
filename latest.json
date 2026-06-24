@@ -1,6 +1,6 @@
-{
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/Azmatfaiz9756/vibe-updates/main/VibeDeviceManagerSetup.exe",
-  "hotUpdateUrl": "https://raw.githubusercontent.com/Azmatfaiz9756/vibe-updates/main/dist.zip",
-  "changelog": "OTA update version 1.0.1 containing latest bug fixes."
+﻿{
+    "changelog":  "OTA hot-update version 1.1.0 containing latest security fixes and role-based device filtering.",
+    "url":  "https://raw.githubusercontent.com/Azmatfaiz9756/vibe-updates/main/VibeDeviceManagerSetup.exe",
+    "version":  "1.1.0",
+    "hotUpdateUrl":  "https://raw.githubusercontent.com/Azmatfaiz9756/vibe-updates/main/dist.zip"
 }
