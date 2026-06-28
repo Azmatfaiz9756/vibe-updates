@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "OTA hot-update version 1.1.0 containing latest security fixes and role-based device filtering.",
+    "changelog":  "OTA hot-update version 1.1.1 containing latest security fixes and role-based device filtering.",
     "url":  "https://raw.githubusercontent.com/Azmatfaiz9756/vibe-updates/main/VibeDeviceManagerSetup.exe",
-    "version":  "1.1.0",
+    "version":  "1.1.1",
     "hotUpdateUrl":  "https://raw.githubusercontent.com/Azmatfaiz9756/vibe-updates/main/dist.zip"
 }
