@@ -1,5 +1,5 @@
 {
-    "changelog": "Critical version 1.1.5 update containing database query fixes and window focus recovery features.",
+    "changelog": "Critical version 1.1.6 update containing sidebar customizability toggles, WhatsApp installment notifications, database query fixes, and window focus recovery features.",
     "url": "https://raw.githubusercontent.com/Azmatfaiz9756/vibe-updates/main/VibeDeviceManagerSetup.exe",
-    "version": "1.1.5"
+    "version": "1.1.6"
 }
